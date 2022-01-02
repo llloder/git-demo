@@ -9,5 +9,7 @@ public class GitDemo1 {
         System.out.println("在吗？master？");
         System.out.println("我们可以去编故事来篇流量！");
         System.out.println("是啊，但我们要编些啥呢？");
+        System.out.println("随便编一点呗！");
+        System.out.println("emmmm.....");
     }
 }
